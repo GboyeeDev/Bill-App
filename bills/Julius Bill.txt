@@ -1,0 +1,8 @@
+Bill breakdown: 
+pie:                      ...$5 
+cake:                     ...$3.99 
+carrot:                   ...$10 
+egg:                      ...$20 
+noodles:                  ...$30 
+tip:                      ...$9
+total:                    ...$77.99
